@@ -1,4 +1,4 @@
-The rain and the rainbow
+The rain and the rainbow and the sun
 
 Red
 Orange
@@ -12,3 +12,5 @@ These are the colors of rainbow.
 
 After the rain
 The color of the rainbow
+
+Can see the sun
