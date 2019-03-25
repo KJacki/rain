@@ -1,4 +1,4 @@
-The rain
+The rain and the rainbow
 
 Red
 Orange
@@ -9,3 +9,6 @@ Brown
 Purple
 
 These are the colors of rainbow. 
+
+After the rain
+The color of the rainbow
