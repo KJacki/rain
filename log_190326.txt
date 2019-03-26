@@ -1,0 +1,65 @@
+commit 45c2cb4cb11a54c0ee31ee4ca5184f6ee36726e0
+Author: KJack <withthisclue@gmail.com>
+Date:   Tue Mar 26 07:34:04 2019 +0900
+
+    adding 2
+
+commit 5ddcec9fe2ac452baf591d3b10ed0a77f447bc83
+Merge: 1bdb3fe 690b7ff
+Author: KJack <withthisclue@gmail.com>
+Date:   Tue Mar 26 07:32:26 2019 +0900
+
+    Merge pull request #2 from KJacki/sun
+    
+    adding the sun
+
+commit 1bdb3fe7b2dbd14f8c6fda2d438aaf52a7c46172
+Author: KJack <withthisclue@gmail.com>
+Date:   Tue Mar 26 07:30:12 2019 +0900
+
+    adding Indigo
+
+commit 690b7ff71c99183302a702b81d4218c66a507584
+Author: KJack <withthisclue@gmail.com>
+Date:   Tue Mar 26 07:25:46 2019 +0900
+
+    adding the sun
+
+commit 40f50e8eace581aad34937bb6de6dc92da447b63
+Merge: 37443fb 0c19fa0
+Author: KJack <withthisclue@gmail.com>
+Date:   Tue Mar 26 07:22:00 2019 +0900
+
+    Merge pull request #1 from KJacki/rainbow
+    
+    Update rain.txt
+
+commit 0c19fa032514708425d86c38e70ecaaecbb49ef6
+Author: KJack <withthisclue@gmail.com>
+Date:   Tue Mar 26 07:09:48 2019 +0900
+
+    Update rain.txt
+
+commit 37443fb1643cf837db73467f5843bd09eff880c5
+Author: KJack <withthisclue@gmail.com>
+Date:   Mon Mar 25 08:16:58 2019 +0900
+
+    I am adding the color brown.
+
+commit d3ea4897c1cb31c74a0fe75168ef3c1bcd019393
+Author: KJack <withthisclue@gmail.com>
+Date:   Mon Mar 25 08:15:24 2019 +0900
+
+    I am adding the color purple.
+
+commit c79d347596e770dc5a32a463ce08d199fc4f741e
+Author: KJack <withthisclue@gmail.com>
+Date:   Mon Mar 25 08:13:03 2019 +0900
+
+    Create rain.txt
+
+commit 6e491f1be3b6c3a1edd898ecb81452b5ed055113
+Author: KJack <withthisclue@gmail.com>
+Date:   Mon Mar 25 08:08:59 2019 +0900
+
+    Initial commit
