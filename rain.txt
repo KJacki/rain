@@ -16,3 +16,5 @@ The color of the rainbow
 
 Can see the sun
 2
+
+from desktop
